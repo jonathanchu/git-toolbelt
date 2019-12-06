@@ -345,7 +345,7 @@ commit-to will allow you to do so, without checking out the branch necessarily.
 
 ### git cherry-pick-to
 
-Every been on a branch, just made a commit, but really want that commit
+Ever been on a branch, just made a commit, but really want that commit
 available on other branches as well? You can now cherry-pick this commit to any
 branch, staying on the current branch. (Given the change won't lead to a merge
 conflict.)
